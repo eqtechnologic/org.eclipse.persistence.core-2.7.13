@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven 3.6.0
+Built-By: jenkins
+Build-Jdk: 11.0.11
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.eclipse.persistence.core.source
+Bundle-Localization: OSGI-INF/l10n/bundle-src
+Bundle-Version: 2.7.13.v20230724-7ffb888abf
+Bundle-Name: %bundleName
+Eclipse-SourceBundle: org.eclipse.persistence.core;version="2.7.13.v2023
+ 0724-7ffb888abf";roots:="."
+Bundle-Vendor: %bundleVendor
+
